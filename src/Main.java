@@ -61,6 +61,8 @@ public class Main {
         }
         System.out.println(Arrays.toString(numbers));
 
+        System.out.println("Выполнил первое дз");
+
 
         }
 
